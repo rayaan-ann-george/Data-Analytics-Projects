@@ -23,7 +23,7 @@ This project analyzes customer shopping behavior to uncover purchasing patterns,
   - NumPy
   - Matplotlib
   - Seaborn
-- SQL
+- PostgreSQL
 - Power BI
 
 ---
@@ -45,7 +45,7 @@ Customer shopping behavior dataset containing transaction and customer-related i
 - Product category performance
 - Purchase frequency analysis
 
-### 4. SQL Analysis
+### 4. SQL Analysis using PostgreSQL
 Used SQL queries to:
 - Filter and aggregate customer data
 - Analyze purchasing patterns
@@ -90,13 +90,6 @@ Customer-Behaviour-Analysis
     └── Customer_behaviour project.docx
 ```
 
----
-
-## Dashboard Preview
-
-Add screenshots of your Power BI dashboard here.
-
-![Dashboard Screenshot](images/dashboard.png)
 
 ---
 
