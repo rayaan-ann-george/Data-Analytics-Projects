@@ -1,21 +1,119 @@
-Welcome to my Data Analytics portfolio.
+# Customer Behaviour Analysis
 
-This repository contains projects focused on:
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Business Intelligence
-- Data-Driven Decision Making
+## Project Overview
 
-## Tools Used
-- Power BI
+This project analyzes customer shopping behavior to uncover purchasing patterns, customer preferences, and factors influencing buying decisions. The goal is to transform raw customer transaction data into meaningful business insights that can support marketing, sales, and customer retention strategies.
+
+---
+
+## Objectives
+
+- Clean and preprocess customer shopping data
+- Analyze customer demographics and purchasing trends
+- Identify popular product categories
+- Understand spending patterns across different customer groups
+- Create interactive dashboards for business decision-making
+
+---
+
+## Tools & Technologies
+
+- Python
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
 - SQL
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Power BI
 
-## Projects
-1. Customer Behaviour Analysis
-2. Student Dropout Analysis
-3. New York Airbnb Analysis
-4. Sales Data Analysis
+---
 
-More projects will be added regularly.
+## Project Workflow
+
+### 1. Data Collection
+Customer shopping behavior dataset containing transaction and customer-related information.
+
+### 2. Data Cleaning
+- Removed missing values
+- Handled duplicates
+- Standardized data formats
+- Performed data quality checks
+
+### 3. Exploratory Data Analysis (EDA)
+- Customer demographic analysis
+- Spending behavior analysis
+- Product category performance
+- Purchase frequency analysis
+
+### 4. SQL Analysis
+Used SQL queries to:
+- Filter and aggregate customer data
+- Analyze purchasing patterns
+- Generate business metrics
+
+### 5. Dashboard Development
+Created an interactive Power BI dashboard to visualize:
+- Customer distribution
+- Sales trends
+- Product performance
+- Customer spending behavior
+
+---
+
+## Key Insights
+
+- Identified high-value customer segments
+- Discovered top-performing product categories
+- Analyzed spending patterns across demographic groups
+- Highlighted opportunities for targeted marketing campaigns
+
+---
+
+## Repository Structure
+
+```
+Customer-Behaviour-Analysis
+│
+├── unclean data/
+│   └── customer_shopping_behavior.csv
+│
+├── python code for data cleaning/
+│   └── customer behaviour.ipynb
+│
+├── sql codes/
+│   └── customers.sql
+│
+├── visualization/
+│   └── customer_behaviour.pbix
+│
+└── step by step process/
+    └── Customer_behaviour project.docx
+```
+
+---
+
+## Dashboard Preview
+
+Add screenshots of your Power BI dashboard here.
+
+![Dashboard Screenshot](images/dashboard.png)
+
+---
+
+## Business Value
+
+The insights generated from this analysis can help businesses:
+
+- Improve customer targeting
+- Increase customer retention
+- Optimize product offerings
+- Enhance marketing effectiveness
+- Support data-driven decision making
+
+---
+
+## Author
+
+**Rayaan Ann George**
+
+Aspiring Data Analyst passionate about transforming data into actionable insights through analytics, visualization, and business intelligence.
